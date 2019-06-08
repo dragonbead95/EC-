@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "항목11", "항목11\항목
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "항목12", "항목12\항목12.vcxproj", "{E7232694-3D12-49C5-B801-051D3D20F42B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "항목13", "항목13\항목13.vcxproj", "{DA0C74EF-F9CD-4737-B2A7-C6B97A566269}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{E7232694-3D12-49C5-B801-051D3D20F42B}.Release|x64.Build.0 = Release|x64
 		{E7232694-3D12-49C5-B801-051D3D20F42B}.Release|x86.ActiveCfg = Release|Win32
 		{E7232694-3D12-49C5-B801-051D3D20F42B}.Release|x86.Build.0 = Release|Win32
+		{DA0C74EF-F9CD-4737-B2A7-C6B97A566269}.Debug|x64.ActiveCfg = Debug|x64
+		{DA0C74EF-F9CD-4737-B2A7-C6B97A566269}.Debug|x64.Build.0 = Debug|x64
+		{DA0C74EF-F9CD-4737-B2A7-C6B97A566269}.Debug|x86.ActiveCfg = Debug|Win32
+		{DA0C74EF-F9CD-4737-B2A7-C6B97A566269}.Debug|x86.Build.0 = Debug|Win32
+		{DA0C74EF-F9CD-4737-B2A7-C6B97A566269}.Release|x64.ActiveCfg = Release|x64
+		{DA0C74EF-F9CD-4737-B2A7-C6B97A566269}.Release|x64.Build.0 = Release|x64
+		{DA0C74EF-F9CD-4737-B2A7-C6B97A566269}.Release|x86.ActiveCfg = Release|Win32
+		{DA0C74EF-F9CD-4737-B2A7-C6B97A566269}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
