@@ -76,6 +76,8 @@ void f()
 
 auto_ptr의 특성
 auto_ptr객체를 복사하면 원본 객체는 null로 만든다.
+...
+
 */
 
 /*
